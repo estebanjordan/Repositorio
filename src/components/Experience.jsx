@@ -56,7 +56,7 @@ const Experience = () => {
     },
     {
       company: 'Colegio Enrique Olaya Herrera',
-      period: '2022',
+      period: 'Ago 2022 - Nov 2022',
       position: 'Docente Practicante en Robótica Educativa',
       responsibilities: [
         'Diseño y aplicación de métodos educativos efectivos en el área de robótica.',
