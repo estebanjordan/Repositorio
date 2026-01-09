@@ -42,7 +42,7 @@ const Experience = () => {
     },
     {
       company: 'AXCOR',
-      period: 'Oct 2022 - Oct 2025',
+      period: 'Oct 2022 - Ene 2025',
       position: 'Gerente Administrativo',
       responsibilities: [
         'Aplicación de conocimientos en mantenimiento y habilidades de liderazgo para garantizar el funcionamiento eficiente de la empresa.',
