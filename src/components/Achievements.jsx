@@ -36,7 +36,7 @@ const Achievements = () => {
     const targets = {
       projects: 10,
       technologies: 20,
-      experience: 3,
+      experience: 5,
       certifications: 10
     };
 
