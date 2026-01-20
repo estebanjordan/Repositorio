@@ -30,13 +30,13 @@ const About = () => {
       <h2>Sobre Mí</h2>
       <div className="about-content-simple">
         <p>
-        Soy Ingeniero Mecatrónico de la Corporación Universitaria del Huila (CORHUILA, 2023) con Tarjeta Profesional COPNIA y Maestría en Inteligencia Artificial (Universidad Sergio Arboleda). Mi pasión se centra en la mecatrónica y la IA, con experiencia en áreas clave como Robótica, Automatización, Programación, Sistemas Tecnológicos, Sistemas SCADA y Energía Solar Fotovoltaica.
+          Ingeniero Mecatrónico (CORHUILA, 2023) con Tarjeta Profesional COPNIA y Maestría en Inteligencia Artificial en curso (Universidad Sergio Arboleda). Especializado en robótica, programación y desarrollo web, con experiencia comprobada en entornos educativos y empresariales.
         </p>
         <p>
-        He liderado proyectos en el sector educativo desarrollando programas de robótica que mejoraron significativamente las habilidades técnicas de los estudiantes. Como Gerente Administrativo en AXCOR, implementé estrategias de mantenimiento y marketing que aumentaron la visibilidad y rentabilidad de la empresa, demostrando capacidad tanto en gestión técnica como empresarial.
+          Cuento con más de 3 años de experiencia en gestión técnica y administrativa, donde he desarrollado soluciones tecnológicas concretas: páginas web, mantenimiento y ensamble de equipos de cómputo, administración de sistemas informáticos, instalaciones de energía solar fotovoltaica, y aplicaciones de visión por computador. Mi formación combina habilidades técnicas sólidas (Python, C/C++, Arduino, diseño CAD) con capacidades de liderazgo, gestión empresarial y optimización.
         </p>
         <p>
-        Mi propuesta de valor combina formación técnica sólida en mecatrónica e inteligencia artificial con experiencia práctica en gestión de proyectos y liderazgo empresarial. Busco aplicar estos conocimientos en organizaciones que requieran soluciones tecnológicas concretas.
+          He trabajado como docente de robótica educativa, gerente administrativo y actualmente como ingeniero mecatrónico con funciones en desarrollo web, administración de sistemas y energía solar fotovoltaica. Busco integrarme a una organización que valore la versatilidad técnica y el desarrollo de soluciones innovadoras, donde pueda aportar mis conocimientos en automatización, robótica e inteligencia artificial mientras continúo mi crecimiento profesional.
         </p>
       </div>
     </section>
