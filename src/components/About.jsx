@@ -30,13 +30,13 @@ const About = () => {
       <h2>Sobre Mí</h2>
       <div className="about-content-simple">
         <p>
-          Ingeniero Mecatrónico (CORHUILA, 2023) con Tarjeta Profesional COPNIA y Maestría en Inteligencia Artificial en curso (Universidad Sergio Arboleda). Especializado en robótica, programación y desarrollo web, con experiencia comprobada en entornos educativos y empresariales.
+          Ingeniero Mecatrónico (CORHUILA, 2023), Maestría en Inteligencia Artificial (Sergio Arboleda, 2026), con Tarjeta Profesional COPNIA. Cuento con experiencia en soporte técnico, mantenimiento de equipos, desarrollo web, administración de sistemas informáticos y docencia en robótica educativa.
         </p>
         <p>
-          Cuento con más de 3 años de experiencia en gestión técnica y administrativa, donde he desarrollado soluciones tecnológicas concretas: páginas web, mantenimiento y ensamble de equipos de cómputo, administración de sistemas informáticos, instalaciones de energía solar fotovoltaica, y aplicaciones de visión por computador. Mi formación combina habilidades técnicas sólidas (Python, C/C++, Arduino, diseño CAD) con capacidades de liderazgo, gestión empresarial y optimización.
+          Cuatro años de trayectoria en tres roles: docencia en robótica, - funciones técnicas y administrativas en AXCOR, - e Ingeniero Mecatrónico en GED SAS. Manejo programación (Python, C/C++, JavaScript, MATLAB, Arduino), diseño CAD (SolidWorks, Solid Edge) y desarrollo web.
         </p>
         <p>
-          He trabajado como docente de robótica educativa, gerente administrativo y actualmente como ingeniero mecatrónico con funciones en desarrollo web, administración de sistemas y energía solar fotovoltaica. Busco integrarme a una organización que valore la versatilidad técnica y el desarrollo de soluciones innovadoras, donde pueda aportar mis conocimientos en automatización, robótica e inteligencia artificial mientras continúo mi crecimiento profesional.
+          Busco una oportunidad que me permita aportar desde mi formación en ingeniería e inteligencia artificial, y seguir creciendo profesionalmente en las distintas áreas donde puedo aportar a empresas o instituciones educativas.
         </p>
       </div>
     </section>
