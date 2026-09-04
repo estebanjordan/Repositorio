@@ -31,11 +31,15 @@ const Experience = () => {
       period: '2023 - Actualidad',
       position: 'Ingeniero Mecatrónico / Accionista',
       responsibilities: [
-        'Liderazgo del área de producción de publicidad, optimizando procesos y garantizando calidad en entregas.',
-        'Mantenimiento preventivo y correctivo de máquinas OFFSET, implementando soluciones con Inteligencia Artificial.',
-        'Apoyo en proyectos de energía renovable y sistemas fotovoltaicos para reducción de costos operativos.',
-        'Participación activa en la toma de decisiones estratégicas como accionista de la empresa.',
-        'Implementación de automatización y sistemas tecnológicos para mejorar la eficiencia operativa.'
+        'Liderazgo y Gestión Administrativa – Coordinación de equipos y supervisión de operaciones.',
+        'Mantenimiento y Ensamble de Computadores – Soporte técnico especializado.',
+        'Gestión de Inventario Tecnológico – Administración y control de activos informáticos.',
+        'Soporte Técnico – Atención presencial y remota en hardware, software y conectividad.',
+        'Redes Informáticas – Administración y configuración de redes cableadas e inalámbricas.',
+        'Desarrollo Web – Creación y mantenimiento de página corporativa.',
+        'Marketing Digital – Desarrollo e implementación de estrategias de posicionamiento.',
+        'Control de Calidad – Supervisión de procesos operativos.',
+        'Planificación Estratégica – Optimización de recursos y mejora operativa.'
       ],
       technologies: ['Automatización', 'Inteligencia Artificial', 'Mantenimiento Industrial', 'Energía Renovable', 'Máquinas OFFSET'],
       icon: '🏢'
@@ -45,11 +49,15 @@ const Experience = () => {
       period: 'Oct 2022 - Ene 2025',
       position: 'Gerente Administrativo',
       responsibilities: [
-        'Aplicación de conocimientos en mantenimiento y habilidades de liderazgo para garantizar el funcionamiento eficiente de la empresa.',
-        'Desarrollo de estrategias de marketing que aumentaron significativamente la visibilidad y rentabilidad de la empresa.',
-        'Gestión administrativa integral y coordinación de equipos de trabajo.',
-        'Implementación de mejoras operativas y optimización de recursos.',
-        'Supervisión de operaciones diarias y control de calidad.'
+        'Liderazgo y Gestión Administrativa – Coordinación de equipos y supervisión de operaciones.',
+        'Mantenimiento y Ensamble de Computadores – Soporte técnico especializado.',
+        'Gestión de Inventario Tecnológico – Administración y control de activos informáticos.',
+        'Soporte Técnico – Atención presencial y remota en hardware, software y conectividad.',
+        'Redes Informáticas – Administración y configuración de redes cableadas e inalámbricas.',
+        'Desarrollo Web – Creación y mantenimiento de página corporativa.',
+        'Marketing Digital – Desarrollo e implementación de estrategias de posicionamiento.',
+        'Control de Calidad – Supervisión de procesos operativos.',
+        'Planificación Estratégica – Optimización de recursos y mejora operativa.'
       ],
       technologies: ['Gestión Administrativa', 'Marketing Digital', 'Liderazgo', 'Planificación Estratégica', 'Control de Calidad'],
       icon: '💼'
@@ -59,11 +67,12 @@ const Experience = () => {
       period: 'Ago 2022 - Nov 2022',
       position: 'Docente Practicante en Robótica Educativa',
       responsibilities: [
-        'Diseño y aplicación de métodos educativos efectivos en el área de robótica.',
-        'Contribución al mejoramiento del aprendizaje de los estudiantes mediante metodologías innovadoras.',
-        'Desarrollo de habilidades pedagógicas y comunicativas en entornos educativos.',
-        'Fomento del crecimiento de habilidades en robótica y programación entre los estudiantes.',
-        'Implementación de plataformas educativas como Moodle para gestión de contenidos.'
+        'Robótica Educativa – Maestro de enseñanza en el área de robótica.',
+        'Programación C++ – Desarrollo del curso de lógica de programación.',
+        'Microcontroladores – Formación orientada a su utilización práctica.',
+        'Metodologías de Investigación Creativa – Aplicación en procesos de aprendizaje tecnológico.',
+        'Gestión de Plataformas Educativas - Uso de Moodle para contenidos',
+        'Desarrollo de Habilidades Comunicativas - Facilitación del aprendizaje cooperativo'
       ],
       technologies: ['Robótica Educativa', 'Arduino', 'Metodología Pedagógica', 'TICs', 'Moodle'],
       icon: '🎓'
