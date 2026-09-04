@@ -55,7 +55,7 @@ const Hero = () => {
         </h2>
 
         <p className="hero-description">
-          Ingeniero Mecatrónico | Especialista en Robótica y Automatización | Apasionado por la Inteligencia Artificial
+          Ingeniero Mecatrónico | Magíster en Inteligencia Artificial | Automatización, Robótica y Desarrollo Web
         </p>
 
         <div className="hero-actions">
